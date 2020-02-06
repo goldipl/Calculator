@@ -1,0 +1,73 @@
+ 
+#button1 {
+    -fx-background-color:
+        linear-gradient(#c2c2a3, #ebebe0);
+    -fx-font-size:24px;
+    -fx-font-weight: bold;
+    -fx-border-color: black;
+    -fx-border-width: 0.5px;
+}
+
+#button1:pressed{
+    -fx-background-color:
+        linear-gradient(#ebebe0, #c2c2a3);
+        -fx-scale-y: 1.05;
+        -fx-scale-x: 1.05;
+}
+
+#button1:hover{
+    -fx-background-color:
+        linear-gradient(#ebebe0, #c2c2a3);
+}
+
+#button2 {
+    -fx-background-color:
+        linear-gradient(#ccffe6, #ccffe6);
+    -fx-font-size:24px;
+    -fx-font-weight: bold;
+    -fx-font-weight: bold;
+    -fx-border-color: black;
+    -fx-border-width: 0.5px;
+}
+
+#button2:pressed {
+    -fx-background-color:
+        linear-gradient(#66ffb3, #ccffe6);
+        -fx-scale-y: 1.05;
+        -fx-scale-x: 1.05;
+}
+
+#button2:hover {
+    -fx-background-color:
+        linear-gradient(#66ffb3, #ccffe6);
+}
+
+#button3 {
+    -fx-background-color:
+        linear-gradient(#ff9900, #ffd699);
+   	-fx-font-size:24px;
+    -fx-font-weight: bold;
+    -fx-font-weight: bold;
+    -fx-border-color: black;
+    -fx-border-width: 0.5px;
+}
+
+#button3:pressed {
+    -fx-background-color:
+        linear-gradient(#ffd699, #ff9900);
+    -fx-scale-y: 1.05;
+    -fx-scale-x: 1.05;
+}
+
+#button3:hover {
+    -fx-background-color:
+        linear-gradient(#ffd699, #ff9900);
+}
+
+#textfield {
+    -fx-background-color: gray;
+    -fx-border-color: black;
+    -fx-border-width: 0.5px;
+
+}
+
