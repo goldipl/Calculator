@@ -14,6 +14,7 @@ If you want to run these application you have to install JavaFX plugin and add J
 Project was created with:
 * Java 8
 * JavaFX
+* Scene Builder
 
 ## Author
 Marcin Godlewski
